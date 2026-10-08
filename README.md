@@ -1,7 +1,8 @@
 # 🎓 UniFlow - Üniversite Kulüp ve Etkinlik Yönetim Platformu
 
 UniFlow, üniversite öğrencilerinin kampüs kulüplerini keşfetmelerine, etkinliklere katılmalarına ve kulüp yöneticilerinin etkinlik/başvuru süreçlerini kolayca yönetmelerine olanak tanıyan modern bir **Android** uygulamasıdır.
-
+Öğrenci, kayıt olup giriş yaptıktan sonra üniversite ve profil bilgilerini doldurur. Ardından kendi üniversitesine bağlı tüm kulüpleri ve etkinlikleri görüntüleyebilir, etkinliklere katılabilir ve kulüplere üye olabilir.
+Öğrenci, kulüp başvurusu yaparak kendi üniversitesine bağlı yeni bir kulüp açma talebinde bulunabilir. Kulüp başvurusu sistem yöneticisine iletilir. Başvuru onaylanırsa öğrenci, ilgili kulübün yöneticisi olur ve kulüp ile etkinlikler üzerinde CRUD işlemleri gerçekleştirebilir.
 ---
 
 ##  Proje Amacı ve Öne Çıkan Özellikler
